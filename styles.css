@@ -41,14 +41,6 @@
             padding: 10px;
         }
 
-        #email {
-            width: 100%;
-        }
-
-        #password {
-            width: 100%;
-        }
-
         button {
             background-color: #1877f2;
             border-radius: 5px;
@@ -66,10 +58,7 @@
 
         .signup {
             background-color: rgb(66, 183, 42);
-            border: none;
             border-radius: 5px;
-            padding: 10px 20px;
-            color: white;
             cursor: pointer;
-			
+			padding:10px;
         }
